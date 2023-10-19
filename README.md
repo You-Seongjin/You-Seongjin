@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=SeongJin%20You&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=SeongJin%20You&fontSize=70&fontColor=ffffff)
 
 ### Language
 
